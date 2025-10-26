@@ -1,22 +1,22 @@
-    *id: me la voy a fumar entera
+    id: me la fumo entera
 
-    *nombre: me la voy a fumar enterisima
+    nombre: me la fumo enterisima
 
-    *nacimiento: voy a a probar con el año pq es lo unico que tiene sentido, sino me la fumo también
+    nacimiento: Agrupados por simplemente años, se puede ver variaciones en la tasa de abandono, por lo que seguramente la use de esta manera.
 
-    *provincia: Voy a necesitar algún tipo de procesamiento, como por ejemplo, agrupar todas las provincias que no son Albacete, Cuenca, Ciudad Real y Toledo (que son las mayoritarias por mucha diferencia), en una clase, por ejemplo llamada 'otra' o 'lejana' o algo así. 
+    provincia: No aporta demasiado, ni si quiera con la transformación de juntar todas las provincias minoritarias en una. 
 
-    *residencia_id: dios sabe que me la voy a fumar.
+    residencia_id: sabe dios que me la fumo, y como me la fumo
 
     trabaja : Se aprecia que entre la gente que trabaja hay un porcentaje ligeramente mayor de abandonos, aunque no es mucha la diferencia. En los que trabajan, el porcentaje de abandonos es de entorno al 35%, entre los que no trabajan este es de más o menos 20%
 
-    horas_trabajo: Parece ser la misma variable que la anterior pero aportando algo más de información, eso sí con valores perdidos.
+    horas_trabajo: Parece ser la misma variable que la anterior pero aportando algo más de información, eso sí con valores perdidos. Hay que procesarla debidamente
 
-    *bachillerato: 
+    bachillerato: Después de la transformación no parece ser malo aunque tampoco parece ser nada del otro mundo. 
 
     nota_acceso: Esta variable no parece ser muy significativa, ya que en el diagrama de cajas, se puede ver como ambas distribuciones tienen casi misma mediana, casi misma distancia a los bigotes y outliners muy parecidos
 
-    *modalidad:
+    modalidad: La variable más irrelevante del estudio. Igual luego la uso si mejora el score, pero lo dudo.
 
     creditos_a1: No parece dar demaisada información, ya que para empezar tiene practicamente todos sus valores iguales, y en las filas que cambia la proporción de abandonos/no abandonos no parece cambiar demasiado,
 
