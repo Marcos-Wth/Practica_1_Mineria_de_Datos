@@ -1,4 +1,4 @@
-# Practica_1_Mineria_de_Datos
-Practica sobre análisis exploratorio de datos, preprocesamiento y validación de modelos de clasificación.
+# Practicas Mineria de Datos
+Practicas de Minería de datos, de 4º de Computación, de Ingeniería Informática de la UCLM
 
-Realizada por Marcos López Gómez
+Realizadas por Marcos López Gómez
